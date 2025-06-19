@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tanushree</h1>
 <h3 align="left">A passionate full-stack developer</h3>
 
-- 🌱 I’m currently learning **Angular.js**
+- 🌱 I’m currently learning **Angular**
 - 🔭 I’m currently working on Web Dev Projects
 - 📫 Reach me at: **tanushreemadaann@gmail.com**
 
